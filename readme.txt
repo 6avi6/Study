@@ -1,0 +1,3 @@
+No ten tego...
+To quit and safe vim :wq
+
