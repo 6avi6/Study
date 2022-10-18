@@ -1,0 +1,12 @@
+﻿  Szyfr Płotkowy.cpp
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,47): error C2397: konwersja z „unsigned __int64” do „int” wymaga konwersji zawężającej
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,47): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,47): error C2397: konwersja z „unsigned __int64” do „const int” wymaga konwersji zawężającej
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,47): warning C4267: "inicjowanie": konwersja z "size_t" do "const int", możliwa utrata danych
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(12,24): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,44): message : niepowodzenie spowodowane przez wywołanie niezdefiniowanej funkcji lub niezadeklarowanej jako „constexpr”
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(11,44): message : zobacz użycie elementu „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::size”
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(12,30): error C2148: całkowity rozmiar tablicy nie może przekroczyć 0x7fffffff bajtów
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(38,29): error C3863: nie można przydzielać typu tablicy „char [width]”
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(65,40): warning C4552: „<<”: Wynik wyrażenia nie jest używany
+C:\Users\Dawid\Desktop\git\Study\Szyfr Płotkowy\Szyfr Płotkowy.cpp(71,1): error C2036: "char (*)[width]": nieznany rozmiar
