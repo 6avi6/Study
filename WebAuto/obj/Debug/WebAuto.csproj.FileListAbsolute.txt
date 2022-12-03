@@ -1,0 +1,14 @@
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\WebAuto.exe.config
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\WebAuto.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\WebAuto.pdb
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\WebDriver.dll
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\bin\Debug\WebDriver.Support.dll
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.csproj.CopyComplete
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\WebAuto\obj\Debug\WebAuto.pdb

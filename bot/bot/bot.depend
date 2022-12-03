@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641059026 source:c:\users\pc\desktop\dawida\code\c++\bot\main.cpp
+	<iostream>
+	<windows.h>
+
