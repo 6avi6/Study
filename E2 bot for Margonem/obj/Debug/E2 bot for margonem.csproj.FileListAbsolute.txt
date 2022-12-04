@@ -1,0 +1,14 @@
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\Exp bot.exe.config
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\Exp bot.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\Exp bot.pdb
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\WebDriver.dll
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\bin\Debug\WebDriver.Support.dll
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\E2 bot for margonem.csproj.AssemblyReference.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\E2 bot for margonem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\E2 bot for margonem.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\E2 bot for margonem.csproj.CopyComplete
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\Exp bot.exe
+C:\Users\Dawid\Desktop\Polibuda to sie nie uda\Study\Exp bot\obj\Debug\Exp bot.pdb
